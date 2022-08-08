@@ -47,6 +47,11 @@ coursera_on_demand <- function(){
   TRUE
 }
 
+# Retrieve the log from swirl's state
+getLog <- function(){
+  getState()$log
+}
+
 submit_log <- function(){
   
   # Please edit the link below
