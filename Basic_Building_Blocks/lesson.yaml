@@ -250,5 +250,5 @@
   AnswerChoices: Yes;No
   CorrectAnswer: NULL
   AnswerTests: submit_log()
-  Hint: ""
+  Hint: hint
   
