@@ -8,21 +8,25 @@ First, make sure that you have the free [RStudio IDE](https://www.rstudio.com/pr
 install.packages("swirl")
 ```
 You will only need to do this once.
+
 2. Then, load the `swirl` package by entering:
 ```R
 library(swirl)
 ```
 You will need to do this every time you start a new R session and intend to use the `swirl` package.
+
 3. Install this course from GitHub using `swirl` by typing:
 ```R
 install_course_github("ikebf", "377_swirl")
 ```
 into your R console (you only have to do this once).
+
 4. To access the course and begin a lesson, type 
 ```R
 swirl()
 ```
 R will prompt you to enter your name by asking `What should I call you?`. *Please enter your last name and first initial* like this: `lohi`.
+
 5. Follow the `swirl` prompts to navigate to the `377 swirl` course. You can select your lesson from the provided menu. 
 
 # Submitting results
