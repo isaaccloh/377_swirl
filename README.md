@@ -1,7 +1,7 @@
-### 377_swirl
+# 377_swirl
 This is a swirl course for 377. [Swirl](https://swirlstats.com/) is a free package for R that helps us learn R, in R. The course that we will use is the R programming course developed for swirl by a number of authors: get more information and view the original course [here](https://github.com/swirldev/swirl_courses/tree/master/R_Programming).
 
-# Installing and using
+## Installing and using
 First, make sure that you have the free [RStudio IDE](https://www.rstudio.com/products/rstudio/download/) installed on your computer. This part is pretty self explanatory, but we'll go over it in class. Then, follow these steps:
 1. To install this course, first make sure that you have the latest version of the `swirl` package installed. In the R console, type:
 ```R
@@ -29,7 +29,7 @@ R will prompt you to enter your name by asking `What should I call you?`. *Pleas
 
 5. Follow the `swirl` prompts to navigate to the `377 swirl` course. You can select your lesson from the provided menu. 
 
-# Submitting results
+## Submitting results
 Part of the grade for our class will be assessed based on the completion of the `swirl` lessons. To submit your results at the completion of a lesson, follow these easy steps:
 1. Once you reach the last question of the lesson, R will ask you if you want to submit a log of the lesson to Google Forms. Select `2: Yes`.
 2. Your internet browser should open up to a Google form. Click *submit*---and you're done! 
