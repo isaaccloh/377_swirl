@@ -31,7 +31,7 @@ R will prompt you to enter your name by asking `What should I call you?`. *Pleas
 
 ## Submitting results
 Part of the grade for our class will be assessed based on the completion of the `swirl` lessons. To submit your results at the completion of a lesson, follow these easy steps:
-1. Once you reach the last question of the lesson, R will ask you if you want to submit a log of the lesson to Google Forms. Select `2: Yes`.
+1. Once you reach the last question of the lesson, R will ask you if you want to submit a log of the lesson to Google Forms. Select `Yes` (this may be option 1 or 2).
 2. Your internet browser should open up to a Google form. Click *submit*---and you're done! 
 
 ## Uninstalling and reinstalling
