@@ -9,7 +9,7 @@ swirl_options(swirl_logging = TRUE)
 
 # Path to data
 .datapath <- file.path(.get_course_path(),
-                      'R_Programming', 'Looking_at_Data',
+                      '377_swirl', 'Looking_at_Data',
                       'plant-data.txt')
 # Read in data
 plants <- read.csv(.datapath, strip.white=TRUE, na.strings="")
